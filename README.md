@@ -39,6 +39,10 @@ Based on:
 
 #### Demo
 ---
+
+![V4vg](https://github.com/BMehron/MockMaster_v1/assets/49778314/dbcbe726-cb5b-4bda-80f7-60fc6706fe0f)
+
+
 We begin our technical interview with a standard introduction and then the mock assistant gives first problem to the candidate.
 
 We support two type of inputs: speech and text.
