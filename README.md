@@ -13,7 +13,7 @@
 
 **Feedback on Technical Skills:** You receive direct feedback on your problem-solving and coding techniques, which is crucial for identifying areas that need improvement before facing a real technical interview.
 
-**Familiarization with Algorithmic Thinking: Regular practice with algorithm and data structure questions during mock interviews helps develop the algorithmic thinking required in many technical interviews.
+**Familiarization with Algorithmic Thinking:** Regular practice with algorithm and data structure questions during mock interviews helps develop the algorithmic thinking required in many technical interviews.
 
 Improves Code Explanation Skills: In addition to writing code, you often need to explain your approach and decision-making process during technical interviews. Mock interviews help you practice articulating your thought process clearly and concisely.
 
