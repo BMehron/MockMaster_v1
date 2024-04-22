@@ -1,6 +1,6 @@
 ## Mock Interview AI Assistant  ([SEE SLIDES](https://www.canva.com/design/DAGC86z77Ng/8h3Uv15tNG-w4O-aDLlY7Q/view?utm_content=DAGC86z77Ng&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 ### Mini-hackathon on LLMs and GenAI APIs 2024
-#### Organized by LauzHack
+#### Organized by [LauzHack](https://lauzhack.com/)
 
 #### Developed by
 - **Mekhron Bobokhonov**
